@@ -1,4 +1,4 @@
-print("New Hello Git")
+print("New Hello Git Hub")
 print("Holis")
 
 for i in range(12):
